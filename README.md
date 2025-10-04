@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kov191104/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kov191104/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kov191104/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kov191104/LeetCode/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kov191104/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kov191104/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/kov191104/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/kov191104/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/kov191104/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kov191104/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/kov191104/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
