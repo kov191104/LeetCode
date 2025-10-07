@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kov191104/LeetCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kov191104/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/kov191104/LeetCode/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/kov191104/LeetCode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/kov191104/LeetCode/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kov191104/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/kov191104/LeetCode/tree/master/0118-pascals-triangle) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kov191104/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kov191104/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kov191104/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kov191104/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kov191104/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kov191104/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kov191104/LeetCode/tree/master/0169-majority-element) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/kov191104/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kov191104/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kov191104/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kov191104/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/kov191104/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/kov191104/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/kov191104/LeetCode/tree/master/0125-valid-palindrome) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kov191104/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/kov191104/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kov191104/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
